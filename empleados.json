@@ -1,0 +1,45 @@
+[
+    {
+        "id_empleado": "E1",
+        "nombre": "",
+        "apellido": "",
+        "sueldo": "",
+        "cargo_empleado": "C2",
+        "id_cargo": ""
+    },
+    {
+        "id_empleado": "E2",
+        "nombre": "Maria",
+        "apellido": "Dolores",
+        "sueldo": 600000,
+        "cargo_empleado": "C1"
+    },
+    {
+        "id_empleado": "E3",
+        "nombre": "Era",
+        "apellido": "Syndulla",
+        "sueldo": 800000,
+        "cargo_empleado": "C2"
+    },
+    {
+        "id_empleado": "E4",
+        "nombre": "matias",
+        "apellido": "neira",
+        "sueldo": 200000,
+        "id_cargo": "c1"
+    },
+    {
+        "id_empleado": "E4",
+        "nombre": "Matias",
+        "apellido": "Neira",
+        "sueldo": 200000,
+        "id_cargo": "C2"
+    },
+    {
+        "id_empleado": "E6",
+        "nombre": "Juan",
+        "apellido": "Torrez",
+        "sueldo": 600000,
+        "id_cargo": "C1"
+    }
+]
